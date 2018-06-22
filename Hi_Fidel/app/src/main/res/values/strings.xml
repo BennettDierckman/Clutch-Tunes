@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">ClutchTunes</string>
+    <string name="open">Drawerlayout</string>
+    <string name="close">Close</string>
+    <string name="createParty">Host Party</string>
+
+    <!-- activity_login.xml strings -->
+    <string name="passwordHint">Password</string>
+    <string name="usernameHint">Username</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="btnCreateAccount">Create Account</string>
+    <string name="btnRecoverAccount">Recover Account</string>
+    <string name="musicMedleyLogin">ClutchTunes</string>
+
+    <!-- activity_login.xml strings -->
+
+    <!-- activity_register.xml strings -->
+    <string name="confirmpasswordHint">Confirm Password</string>
+    <string name="firstnameHint">First Name</string>
+    <string name="emailHint">Email</string>
+    <string name="titlecreateAccount">Create Account</string>
+    <string name="btnCancel">Cancel</string>
+
+    <!-- fragment_attendee_join_selected.xml strings -->
+    <string name="titleJoinPartyName">Example Party Name</string>
+    <string name="titleJoinPartyPassword">Please enter the Party\'s Password</string>
+    <string name="partypasswordHint">Party Password</string>
+    <string name="btnJoinParty">Join Party</string>
+    <string name="btnJoinPartyCancel">Cancel</string>
+
+    <!-- fragment_attendee_party.xml strings -->
+    <string name="btnLikeSong">Like Song</string>
+    <string name="btnLoveSong">Love Song</string>
+    <string name="btnDislikeSong">Dislike Song</string>
+    <string name="titleAttendeePartyName">Example Party Name</string>
+    <string name="titleCurrentlyPlaying">Currently Playing</string>
+    <string name="btnLeaveParty">Leave Party</string>
+
+    <!-- fragment_confirm_end.xml strings -->
+    <string name="btnConfirmCancel">Cancel</string>
+    <string name="titleEnterAccountPassword">Enter Account Password</string>
+    <string name="accountpasswordHint">Account Password</string>
+    <string name="textNotification">This is the same password used for logging into your account</string>
+    <string name="btnEndParty">End Party</string>
+
+    <!-- fragment_create.xml strings -->
+    <!-- fragment_host_party.xml strings -->
+    <!-- fragment_initialize.xml strings -->
+    <!-- fragment_leave_party.xml strings -->
+    <!-- fragment_logout.xml strings -->
+    <!-- fragment_love_notify.xml strings -->
+    <!-- fragment_profile.xml strings -->
+    <!-- fragment_psm.xml strings -->
+    <!-- fragment_header.xml strings -->
+
+    <!-- activity_location.xml strings
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="last_update_time_label">Last location update time</string>
+
+    <string name="start_updates">Start updates</string>
+    <string name="stop_updates">Stop updates</string>
+    <string name="location_updated_message">Location updated</string> -->
+
+    <string-array name="parties_array">
+        <item>No parties have been attended.</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>>
+</resources>
